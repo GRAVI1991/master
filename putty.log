@@ -1,0 +1,6 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.08.08 07:12:05 =~=~=~=~=~=~=~=~=~=~=~=
+Event Log: Writing new session log (SSH packets mode) to file: putty.log
+Event Log: Connecting to 18.220.71.74 port 22
+Event Log: We claim version: SSH-2.0-PuTTY_Release_0.69
+Event Log: Failed to connect to 18.220.71.74: Network error: Connection timed out
+Event Log: Network error: Connection timed out
